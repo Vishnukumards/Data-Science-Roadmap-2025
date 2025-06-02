@@ -1,1 +1,1 @@
-Go TO DAYT
+Most of them will start learning with Python's libraries So first we need to be a very strong on python fundamentals and later data structures of python and data types of python, OOPs, Generator, decorators, functions
